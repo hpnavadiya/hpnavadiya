@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 # Badges 
 
-<b>My GitHub Stats : 25+</b>
+<b>My GitHub Stars : 25+</b>
 
 <b>Total Repositories : 25+</b>
 
