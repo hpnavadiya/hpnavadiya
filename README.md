@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **navadiyaharsh2001@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-harsh-navadiya.vercel.app/](https://portfolio-harsh-navadiya.vercel.app/)
-
 - ⚡ Fun fact **I completed my post-graduation in web development and my B.Tech in computer science.**
 
 <h3 align="left">Connect with me:</h3>
